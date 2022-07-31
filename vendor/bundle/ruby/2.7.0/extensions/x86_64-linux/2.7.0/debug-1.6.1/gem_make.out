@@ -1,0 +1,16 @@
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20220731-202838-z17xv7.rb extconf.rb
+creating Makefile
+
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220731-202838-1tubgxc/debug

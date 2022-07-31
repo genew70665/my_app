@@ -1,0 +1,15 @@
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20220731-202838-16cv1m3.rb extconf.rb
+creating Makefile
+
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/genew/Desktop/ruby_box/my_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.13.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220731-202838-4xq9xh/bootsnap
